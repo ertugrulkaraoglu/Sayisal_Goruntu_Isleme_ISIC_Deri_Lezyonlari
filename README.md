@@ -13,5 +13,5 @@ Notebook içinde hem RGB hem de grayscale görüntüler üzerinde:
 - Bicubic enterpolasyon ile büyütme
 adım adım uygulanmaktadır.
 
-Hata alınması durumunda yüklenmesi gereken paketler ==> %pip install opencv-python numpy pandas matplotlib seaborn
-Eğer Jupyter yoksa ==> %pip install jupyter
+* Hata alınması durumunda yüklenmesi gereken paketler ==> %pip install opencv-python numpy pandas matplotlib seaborn
+* Eğer Jupyter yoksa ==> %pip install jupyter
